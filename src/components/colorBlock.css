@@ -1,0 +1,12 @@
+.color-block {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+    
+  }
+  
+  .color-container {
+    display: flex;
+    justify-content: space-evenly;
+  }
